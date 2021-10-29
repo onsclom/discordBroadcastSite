@@ -1,0 +1,21 @@
+@import url('http://fonts.cdnfonts.com/css/whitney-2');
+
+:root {
+	--main-bg-color: #36393f;
+	--pure-white: #fff;
+	--text-muted: #72767d;
+	--text-normal: #dcddde;
+}
+
+html, body {
+	font-family: Whitney;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	background-color: var(--main-bg-color);
+}
+
+body {
+	color: #eee;
+}
